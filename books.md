@@ -11,7 +11,6 @@
 - [Form+Code](http://formandcode.com) by Casey Reas, Chandler McWilliams, LUST
 - [Media Facades](http://www2.avedition.de/en/Bucher/Katalog/290) by Matthias H. Häusler
 - [Visualizing Data - Exploring and Explaining Data with the Processing Environment](http://shop.oreilly.com/product/9780596514556.do) by Ben Fry
-- 
 - tba.
 
 ## Whishlist
