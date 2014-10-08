@@ -10,7 +10,7 @@ Ungefähre Angaben, da Teile der Hardware immer wieder einmal in Projekten verba
 
 - [Logitech C920 USB HD Pro](http://www.logitech.com/product/hd-pro-webcam-c920) *(~1x)*
 - [PlayStation®Eye Camera](http://us.playstation.com/ps3/accessories/playstation-eye-camera-ps3.html) *(~2x)*
-- [Xbox Kinect v1473](http://www.xbox.com/en-US/kinect) *(~1)* **NOTE: Never use with Xbox!**
+- [Xbox Kinect v1473](http://www.xbox.com/en-US/kinect) *(~1x)* **NOTE: Never use with Xbox!**
 
 ### Arduino
 
@@ -33,4 +33,6 @@ Ungefähre Angaben, da Teile der Hardware immer wieder einmal in Projekten verba
 ## Wishlist
 
 - Projectoren
-- Lasercutter / 3D Printer ;)
+- Lasercutter
+- 3D Printer
+- [Oculus Rift Development Kit 2](https://www.oculus.com/order/)
