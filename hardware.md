@@ -17,6 +17,7 @@ Ungefähre Angaben, da Teile der Hardware immer wieder einmal in Projekten verba
 - [Arduino Duemilanove](http://arduino.cc/en/Main/ArduinoBoardDuemilanove) *(~2x)*
 - [Arduino Uno](http://arduino.cc/en/Main/ArduinoBoardUno) *(~4x)*
 - [Arduino Mini R5](http://arduino.cc/en/Main/ArduinoBoardMini) *(~2x)*
+- [Arduino Pro Mini (3.3V 8M)](http://arduino.cc/en/Main/ArduinoBoardProMini) *(~2x)*
 - [Arduino Micro](http://arduino.cc/en/Main/ArduinoBoardMicro) *(~1x)*
 - [USB Serial Light Adapter](http://arduino.cc/en/Main/USBSerial) *(1x)*
 - Shields:
